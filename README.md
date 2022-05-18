@@ -1,1 +1,0 @@
-# debug_nextjs_blog_template
