@@ -13,9 +13,9 @@ export default function Footer() {
 
             <ul class="list-none mb-0">
               <li>
-                <Link href="/about">
+                <Link href="/tutorials/css/css-intro/">
                   <a class="text-white">
-                    About Us
+                    Tutorials/CSS/Intro
                   </a>
                 </Link>
               </li>
