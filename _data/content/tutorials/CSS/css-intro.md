@@ -1,5 +1,5 @@
 ---
-title: 'CSS Introduction'
+title: 'Introduction to CSS'
 date: 'May 4, 2021'
 excerpt: 'We will look at 10 simple tips and tricks to increase the speed of your code when writing JS'
 cover_image: '/assets/images/posts/img1.jpg'
